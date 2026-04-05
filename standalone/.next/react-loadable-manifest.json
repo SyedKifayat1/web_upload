@@ -1,0 +1,34 @@
+{
+  "components\\admin\\RichTextEditor.tsx -> react-quill": {
+    "id": 5600,
+    "files": [
+      "static/chunks/8012d7e2.57538e1c786f7bf1.js",
+      "static/chunks/5600.181c5563950a0a9e.js"
+    ]
+  },
+  "components\\home\\SectionReveal.tsx -> gsap": {
+    "id": 36498,
+    "files": [
+      "static/chunks/c15bf2b0.7eb866fff7f10646.js",
+      "static/chunks/6498.a05ffd8d52545ae6.js"
+    ]
+  },
+  "components\\home\\SectionReveal.tsx -> gsap/ScrollTrigger": {
+    "id": 59498,
+    "files": [
+      "static/chunks/9498.f7de1f46afed1d18.js"
+    ]
+  },
+  "components\\layout\\ClientLayout.tsx -> @/components/cart/CartSidebar": {
+    "id": 28797,
+    "files": [
+      "static/chunks/8797.935a177a40e074b0.js"
+    ]
+  },
+  "components\\layout\\ClientLayout.tsx -> @/components/support/SupportChatWidget": {
+    "id": 18255,
+    "files": [
+      "static/chunks/8255.2f740ea638b49775.js"
+    ]
+  }
+}
